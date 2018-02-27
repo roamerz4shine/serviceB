@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="org.example.serviceb" version="1.0.0">
+    <profile name="mobile" />
+    <service-application appid="org.example.serviceb" exec="serviceb" type="capp" multiple="false" taskmanage="false" nodisplay="true">
+        <icon>serviceb.png</icon>
+        <label>serviceb</label>
+	</service-application>
+</manifest>
